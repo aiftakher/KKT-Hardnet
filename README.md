@@ -18,8 +18,8 @@ If you use this code or ideas from this repository, please cite:
 
 ```bibtex
 @article{iftakher2025physics,
-  title={Physics-Informed Neural Networks with Hard Nonlinear Equality and Inequality Constraints},
-  author={Iftakher, Ashfaq and Golder, Rahul and Hasan, MM},
-  journal={arXiv preprint arXiv:2507.08124},
-  year={2025}
+  title  = {Physics-Informed Neural Networks with Hard Nonlinear Equality and Inequality Constraints},
+  author = {Iftakher, Ashfaq and Golder, Rahul and Nath Roy, Bimol and Hasan, MM},
+  journal= {arXiv preprint arXiv:2507.08124},
+  year   = {2025}
 }
