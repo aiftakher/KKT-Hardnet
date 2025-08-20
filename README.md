@@ -7,7 +7,7 @@ Neural network architecture for hard-constrained machine learning.
 ---
 
 ## Overview
-This repository provides a **vanilla implementation** of the *Illustrative Example 1* for pedagogical purposes.
+This repository provides a **vanilla implementation** of the *Illustrative Example 1* from the paper for pedagogical purposes.
 
 For the **full-scale official implementation**, please visit the [SOULS-TAMU/kkt-hardnet](https://github.com/SOULS-TAMU/kkt-hardnet) repository.
 
