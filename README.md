@@ -14,7 +14,7 @@ For the **full-scale official implementation**, please visit the [SOULS-TAMU/kkt
 ---
 
 ## Citation
-⚠️ Please cite our work if you use this code in your research.
+Please cite our work if you use this code in your research.
 
 ```bibtex
 @article{iftakher2025physics,
